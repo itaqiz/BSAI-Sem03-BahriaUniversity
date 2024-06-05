@@ -8,7 +8,7 @@ This repository consists of assignments related to my third semester of Bachelor
 **Program:** Bachelor's in Artificial Intelligence  
 **Semester:** Spring 2023  
 **Professor:** 
-- 👩‍🏫 Mam Bushra Shabbir
+- 👨‍🏫 Sir Adil Khan
 
 ## 📁 Contents
 
