@@ -7,8 +7,9 @@ This repository consists of assignments related to my third semester of Bachelor
 **Institution:** Bahria University Islamabad Campus  
 **Program:** Bachelor's in Artificial Intelligence  
 **Semester:** Spring 2023  
+
 **Professor:** 
-- 👨‍🏫 Sir Adil Khan
+- 👨‍🏫 Prof Dr Adil Khan
 
 ## 📁 Contents
 
